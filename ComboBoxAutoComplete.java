@@ -1,5 +1,3 @@
-package utils;
-
 import java.util.stream.Stream;
 
 import javafx.collections.FXCollections;
